@@ -33,9 +33,8 @@ WhoFundsWho is a browser extension that instantly shows you who funds the expert
 If you prefer not to use the Chrome Web Store, follow these steps to manually install the extension:
 
 1. **Download the Extension:**
-   - Go to the [WhoFundsWho GitHub Repository](https://github.com/your-repo/whofundswho).
-   - Click on the `whofundswho.zip` file in the repository.
-   - Click on the triple dots (⋮) in the top right corner of the file view.
+   - In the repository click on the `whofundswho.zip` file.
+   - Then click on the horizontal triple dots in the top right corner of the file view.
    - Select **"Download"** to download the ZIP file.
 
 2. **Extract the ZIP File:**
@@ -44,7 +43,7 @@ If you prefer not to use the Chrome Web Store, follow these steps to manually in
    - This will create a folder named `dist`.
 
 3. **Open Chrome's Extension Manager:**
-   - In Chrome, navigate to `chrome://extensions/` by typing it into the address bar and pressing Enter.
+   - In Chrome, navigate to `chrome://extensions/` by typing it into the address bar and pressing Enter, or by navigating to it in the browser's menu.
 
 4. **Enable Developer Mode:**
    - In the top right corner of the Extensions page, toggle the **"Developer mode"** switch to the **"On"** position.
@@ -59,7 +58,7 @@ If you prefer not to use the Chrome Web Store, follow these steps to manually in
 
 7. **Configure the Extension:**
    - Upon installation, the Options page will open automatically.
-   - Choose your preferred settings as described on the Options page.
+   - Choose your preferred settings as described on the Options page itself.
 
 ## Usage
 
@@ -83,14 +82,3 @@ To remove the WhoFundsWho extension from your browser:
 
 The manual installation process also works on the [Kiwi Browser](https://kiwibrowser.com/) on Android mobile devices. Other mobile browsers have limited or no support for extensions, so functionality may be restricted outside of Kiwi.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-Thank you for using WhoFundsWho! If you have any questions or need support, feel free to open an issue in the repository.
