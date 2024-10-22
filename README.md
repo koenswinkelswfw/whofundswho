@@ -94,9 +94,9 @@ You can install WhoFundsWho from the Chrome Web Store on the mobile Kiwi browser
 - When you click 'OK' on the warning message, WhoFundsWho is added as an extension in the Kiwi browser, and the start page will open where you can select a profile. This profile will pre-select categories in the Options menu, which will appear when you click 'Continue'.
 
 You can also install WhoFundsWho in the Kiwi browser directly, without using the Chrome Web Store:
-- On your Android mobile device, download the 'dist.crx' file for WhoFundsWho directly from the repository [here](https://github.com/koenswinkelswfw/whofundswho/blob/main/dist.crx).
+- On your Android mobile device, download the 'whofundswho.crx' file for WhoFundsWho directly from the repository [here](https://github.com/koenswinkelswfw/whofundswho/blob/main/whofundswho.crx).
 - In the Kiwi browser, open the Extensions menu by navigating to `chrome://extensions/` or by tapping on 'Extensions' in the Kiwi browser menu, which can be accessed by tapping on the three vertical dots in the top right of the screen.
-- Tap on '+ (from .zip/.crx/.user.js)', navigate to the folder where you saved the 'dist.crx' file, and select it.
+- Tap on '+ (from .zip/.crx/.user.js)', navigate to the folder where you saved the 'whofundswho.crx' file, and select it.
 - A standard warning message about installing extensions will appear. As outlined on our [privacy policy page](https://whofundswho.com/privacy-policy/), WhoFundsWho does not send sensitive data from your device to any servers, and all privacy-sensitive operations are performed locally on your device.
 - When you click 'OK' on the warning message, WhoFundsWho is added as an extension in the Kiwi browser, and the start page will open where you can select a profile that pre-selects categories in the Options menu, which will open when you click 'Continue'.
 
