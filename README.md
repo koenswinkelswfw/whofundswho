@@ -23,6 +23,7 @@ WhoFundsWho is a browser extension that instantly shows you who funds the expert
 
 2. **Search for WhoFundsWho:**
    - In the search bar, type "WhoFundsWho" and press Enter.
+   - Or navigate to WhoFundsWho's [page](https://chromewebstore.google.com/detail/whofundswho/pfdecgjliclkncfaiciljlphfenigmno) in the Web Store directly.
 
 3. **Add the Extension to Chrome:**
    - Click on the **"Add to Chrome"** button next to the WhoFundsWho extension.
