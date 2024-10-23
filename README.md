@@ -13,7 +13,7 @@ WhoFundsWho is a browser extension that instantly shows you who funds the expert
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
-
+ 
 ## Installation
 
 ### Via Chrome Web Store
